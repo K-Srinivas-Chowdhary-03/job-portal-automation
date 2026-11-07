@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+*.env
+!.env.example
+.venv/
+# Virtualenvs
+venv/
+# Test caches
+.pytest_cache/
+# Coverage
+htmlcov/
+.coverage
+# Distribution / packaging
+build/
+Dist/
+*.egg-info/
+# PyInstaller
+*.spec
+# IDE
+.idea/
+.vscode/
+# Jupyter
+.ipynb_checkpoints
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+# Next.js
+.next/
+out/
+# Static files
+*.log
+# Docker
+.dockerignore
+# OS files
+.DS_Store
+Thumbs.db
